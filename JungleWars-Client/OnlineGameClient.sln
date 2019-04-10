@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineGameClient", "OnlineGameClient.csproj", "{C8E2BD56-903D-75E4-3D77-3A7319644057}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineGameClient.Editor", "OnlineGameClient.Editor.csproj", "{49B9C61F-E2AF-370C-C2D0-15A07754F073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8E2BD56-903D-75E4-3D77-3A7319644057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E2BD56-903D-75E4-3D77-3A7319644057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E2BD56-903D-75E4-3D77-3A7319644057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E2BD56-903D-75E4-3D77-3A7319644057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B9C61F-E2AF-370C-C2D0-15A07754F073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B9C61F-E2AF-370C-C2D0-15A07754F073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B9C61F-E2AF-370C-C2D0-15A07754F073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B9C61F-E2AF-370C-C2D0-15A07754F073}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

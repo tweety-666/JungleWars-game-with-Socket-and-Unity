@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\User\\Desktop\\JungleWars-unity\\JungleWars-Client\\OnlineGameClient.Editor.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
